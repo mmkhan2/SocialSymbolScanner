@@ -1,2 +1,2 @@
-# hodlSynth
+# SocialSymbolScanner
 Website
